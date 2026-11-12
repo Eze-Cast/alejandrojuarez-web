@@ -9,6 +9,6 @@ Sitio estático de atención personal en León, Guanajuato.
 - Temas claro y oscuro, filtros, colores, comparativa y fichas oficiales.
 - Inventario manual: 121 unidades, 25 versiones y 11 modelos; fecha de origen 6 de noviembre de 2026.
 
-El contenido publicable se encuentra en dist/. La rama gh-pages contiene estos mismos archivos en su raíz. El logo AJL se usa en la presentación; la fotografía del asesor está pendiente.
+El contenido publicable se encuentra en dist/. La rama gh-pages contiene estos mismos archivos en su raíz. La sección del asesor incluye la fotografía de presentación proporcionada; el logo AJL se conserva en la identidad del sitio.
 
 Para revisar localmente sirve dist/ con cualquier servidor HTTP estático.
